@@ -1,4 +1,4 @@
-# Alura-Store
+
 # Alura Store - Análisis de Ventas
 
 ## Propósito del proyecto
