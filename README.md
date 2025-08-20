@@ -28,5 +28,5 @@ Alura_Store/
 5. Ejecutar las celdas para ver los análisis y gráficos.
 
 **Autor:** Gustavo Nicolás Samán  
-**Fecha:** Agosto 2025
+**Fecha:** JULIO 2025
 
