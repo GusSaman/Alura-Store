@@ -21,5 +21,12 @@ Alura_Store/
 - Productos más vendidos: Cada tienda tiene productos estrella y también los menos elegidos.
 
 ## Cómo ejecutar
-1. Clonar el repositorio: `git clo
+1. Clonar el repositorio: `git clone https://github.com/tu_usuario/alura_store.git`
+2. Entrar a la carpeta del notebook: `cd alura_store/notebook`
+3. Abrir `analisis_alura_store.ipynb` en Jupyter o Colab.
+4. Instalar librerías si es necesario: `pip install pandas matplotlib`
+5. Ejecutar las celdas para ver los análisis y gráficos.
+
+**Autor:** Gustavo Nicolás Samán  
+**Fecha:** Agosto 2025
 
